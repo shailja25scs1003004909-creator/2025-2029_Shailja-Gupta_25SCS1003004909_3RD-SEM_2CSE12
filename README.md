@@ -136,9 +136,9 @@ The GitHub repository contains the **final major deliverables**.
 
 Additional supporting material such as task files, spreadsheets, screenshots, and other internship-related documents can be accessed through the Drive folder below.
 
-🔗 **[View Complete Internship Materials on Google Drive](YOUR_GOOGLE_DRIVE_LINK_HERE)**
+🔗 **[View Complete Internship Materials on Google Drive](https://github.com/shailja25scs1003004909-creator/2025-2029_Shailja-Gupta_25SCS1003004909_3RD-SEM_2CSE12)**
 
-> Replace `YOUR_GOOGLE_DRIVE_LINK_HERE` with your actual Google Drive folder link.
+
 
 ---
 
