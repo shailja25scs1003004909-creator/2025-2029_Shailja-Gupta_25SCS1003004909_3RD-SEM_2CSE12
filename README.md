@@ -74,18 +74,18 @@ This repository contains the complete deliverables, reports, presentations, and 
 - **Data Analytics:** Exploratory Data Analysis, Data Cleaning, Spreadsheet Modeling, Predictive Analytics
 - **AI & NLP:** Sentiment Analysis, Survey Coding, Prompting, GenAI Business Integration
 - **Documentation & Reporting:** Technical Writing, Executive Presentations, GitHub Repository Management
-
+  
 ## 📂 Repository File Index
 
 | File Name | Description | Status / Type |
 |---|---|---|
 | [InAmigos_Internship_Report_Shailja_Gupta.pdf](./InAmigos_Internship_Report_Shailja_Gupta.pdf) | InAmigos Final Technical Report | Final Deliverable |
-| [InAmigos_Internship_Presentation_Shailja_Gupta.pdf](./InAmigos_Internship_Presentation_Shailja_Gupta.pdf) | InAmigos Project Presentation | Final Deliverable |
+| [InAmigos_Internship_Presentation_Shailja_Gupta.pptx](./InAmigos_Internship_Presentation_Shailja_Gupta.pptx) | InAmigos Project Presentation | Final Deliverable |
 | [Shailja Gupta signed offer letter .pdf](./Shailja%20Gupta%20signed%20offer%20letter%20.pdf) | InAmigos Official Offer Letter | Tenure Verification |
 | [Shailja_Gupta_Hired_Certificate.pdf](./Shailja_Gupta_Hired_Certificate.pdf) | InAmigos Onboarding Certificate | Tenure Verification |
-| [TATA_GENiQ_Shailja_Gupta_completion_certificate_2025-29.pdf](./TATA_GENiQ_Shailja_Gupta_completion_certificate_2025-29.pdf) | Tata iQ Completion Certificate | Official Certificate |
-| [TATA_GENiQ_Shailja_Gupta_Internship_Report_2025-29.pdf](./TATA_GENiQ_Shailja_Gupta_Internship_Report_2025-29.pdf) | Tata iQ Simulation Analysis Report | Final Deliverable |
-| [TATA_GENiQ_Shailja_Gupta_Internship_PPT_2025-29.pdf](./TATA_GENiQ_Shailja_Gupta_Internship_PPT_2025-29.pdf) | Tata iQ Executive Presentation | Final Deliverable |
+| [TATA_GENiQ_Shailja_Gupta_completion_certificate_2025-29 .pdf](./TATA_GENiQ_Shailja_Gupta_completion_certificate_2025-29%20.pdf) | Tata iQ Completion Certificate | Official Certificate |
+| [TATA_GENiQ_Shailja_Gupta_Internship_Report_2025-29 .pdf](./TATA_GENiQ_Shailja_Gupta_Internship_Report_2025-29%20.pdf) | Tata iQ Simulation Analysis Report | Final Deliverable |
+| [TATA_GENiQ_Shailja_Gupta_Internship_PPT_2025-29 .pdf](./TATA_GENiQ_Shailja_Gupta_Internship_PPT_2025-29%20.pdf) | Tata iQ Executive Presentation | Final Deliverable |
 
 ## 🎯 Conclusion
 
