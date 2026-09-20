@@ -79,14 +79,13 @@ This repository contains the complete deliverables, reports, presentations, and 
 
 | File Name | Description | Status / Type |
 |---|---|---|
-| [InAmigos_Internship_Report_Shailja_Gupta.pdf](./InAmigos_Internship_Report_Shailja_Gupta.pdf) | InAmigos Final Technical Report | Final Deliverable |
-| [InAmigos_Internship_Presentation_Shailja_Gupta.pptx](./InAmigos_Internship_Presentation_Shailja_Gupta.pptx) | InAmigos Project Presentation | Final Deliverable |
-| [Shailja Gupta signed offer letter .pdf](./Shailja%20Gupta%20signed%20offer%20letter%20.pdf) | InAmigos Official Offer Letter | Tenure Verification |
-| [Shailja_Gupta_Hired_Certificate.pdf](./Shailja_Gupta_Hired_Certificate.pdf) | InAmigos Onboarding Certificate | Tenure Verification |
-| [TATA_GENiQ_Shailja_Gupta_completion_certificate_2025-29 .pdf](./TATA_GENiQ_Shailja_Gupta_completion_certificate_2025-29%20.pdf) | Tata iQ Completion Certificate | Official Certificate |
-| [TATA_GENiQ_Shailja_Gupta_Internship_Report_2025-29 .pdf](./TATA_GENiQ_Shailja_Gupta_Internship_Report_2025-29%20.pdf) | Tata iQ Simulation Analysis Report | Final Deliverable |
-| [TATA_GENiQ_Shailja_Gupta_Internship_PPT_2025-29 .pdf](./TATA_GENiQ_Shailja_Gupta_Internship_PPT_2025-29%20.pdf) | Tata iQ Executive Presentation | Final Deliverable |
-
+| [InAmigos Final Report](https://github.com/shailja25scs1003004909-creator/2025-2029_Shailja-Gupta_25SCS1003004909_3RD-SEM_2CSE12/blob/main/InAmigos_Internship_Report_Shailja_Gupta.pdf) | InAmigos Final Technical Report | Final Deliverable |
+| [InAmigos Presentation](https://github.com/shailja25scs1003004909-creator/2025-2029_Shailja-Gupta_25SCS1003004909_3RD-SEM_2CSE12/blob/main/InAmigos_Internship_Presentation_Shailja_Gupta.pptx) | InAmigos Project Presentation | Final Deliverable |
+| [InAmigos Offer Letter](https://github.com/shailja25scs1003004909-creator/2025-2029_Shailja-Gupta_25SCS1003004909_3RD-SEM_2CSE12/blob/main/Shailja%20Gupta%20signed%20offer%20letter%20.pdf) | InAmigos Official Offer Letter | Tenure Verification |
+| [InAmigos Onboarding Certificate](https://github.com/shailja25scs1003004909-creator/2025-2029_Shailja-Gupta_25SCS1003004909_3RD-SEM_2CSE12/blob/main/Shailja_Gupta_Hired_Certificate.pdf) | InAmigos Onboarding Certificate | Tenure Verification |
+| [Tata iQ Completion Certificate](https://github.com/shailja25scs1003004909-creator/2025-2029_Shailja-Gupta_25SCS1003004909_3RD-SEM_2CSE12/blob/main/TATA_GENiQ_Shailja_Gupta_completion_certificate_2025-29%20.pdf) | Tata iQ Completion Certificate | Official Certificate |
+| [Tata iQ Analysis Report](https://github.com/shailja25scs1003004909-creator/2025-2029_Shailja-Gupta_25SCS1003004909_3RD-SEM_2CSE12/blob/main/TATA_GENiQ_Shailja_Gupta_Internship_Report_2025-29%20.pdf) | Tata iQ Simulation Analysis Report | Final Deliverable |
+| [Tata iQ Executive PPT](https://github.com/shailja25scs1003004909-creator/2025-2029_Shailja-Gupta_25SCS1003004909_3RD-SEM_2CSE12/blob/main/TATA_GENiQ_Shailja_Gupta_Internship_PPT_2025-29%20.pdf) | Tata iQ Executive Presentation | Final Deliverable |
 ## 🎯 Conclusion
 
 This repository documents my hands-on application of data analysis, AI models, and real-world business strategy across non-profit and financial sector domains. All deliverables demonstrate comprehensive research, data handling, and execution.
