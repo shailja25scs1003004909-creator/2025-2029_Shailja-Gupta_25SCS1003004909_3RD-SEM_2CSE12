@@ -1,8 +1,9 @@
 # 2025-2029_Shailja-Gupta_25SCS1003004909_3RD-SEM_2CSE12
-# InAmigos Foundation – AI Data Analytics Internship
+# Summer Internships & Practical Training Portfolio
 
-![Internship](https://img.shields.io/badge/Internship-AI%20Data%20Analytics-blue)
+![Internship](https://img.shields.io/badge/Domain-AI%20Data%20Analytics-blue)
 ![Organization](https://img.shields.io/badge/Organization-InAmigos%20Foundation-green)
+![Organization](https://img.shields.io/badge/Simulation-Tata%20iQ%20%2F%20Forage-navy)
 ![Role](https://img.shields.io/badge/Role-Data%20Analyst-orange)
 
 ## 👩‍💻 Student Details
@@ -15,138 +16,84 @@
 | **Semester** | 3rd Semester |
 | **Section** | 2CSE12 |
 | **Role** | Data Analyst |
-| **Organization** | InAmigos Foundation |
-| **Internship Domain** | AI Data Analytics |
-| **Internship Period** | 03 September 2026 – 16 September 2026 |
 
 ---
 
-## 📌 About the Internship
+## 📌 Portfolio Overview
 
-This repository contains the major deliverables completed during my **AI Data Analytics Internship at InAmigos Foundation**.
+This repository contains the complete deliverables, reports, presentations, and verification documents for my practical experience in **AI & Data Analytics**, covering both my industry organization internship and specialized virtual job simulation training:
 
-The internship provided practical exposure to data research, NGO data compilation, Natural Language Processing (NLP), social-impact analysis, opportunity research, fundraising awareness, and professional documentation.
-
----
-
-## 📂 Repository Contents
-
-This repository contains my three main internship deliverables:
-
-### 📄 1. Internship Report
-
-The final report documents the work completed during the internship, including:
-
-- Internship introduction and objectives
-- **Task 1 – NGO Data Compilation**
-- **Task 2 – NLP and Social Impact Analysis**
-- **Task 3 – Volunteer & Internship Opportunity Research**
-- **Task 4 – Fundraising Activity**
-- Social media and LinkedIn activities
-- Skills and learning outcomes
-- Challenges and responsible data practices
-- Overall conclusion
-
-📁 **File:** `InAmigos_Internship_Report_Shailja_Gupta.docx`
+1. **InAmigos Foundation** – AI Data Analytics Internship *(Primary Industry Internship)*
+2. **Tata iQ (via Forage)** – GenAI Powered Data Analytics Job Simulation *(Practical Industry Training)*
 
 ---
 
-### 📊 2. Internship Presentation
+## 🏢 1. InAmigos Foundation – AI Data Analytics Internship
 
-The presentation provides a concise overview of my internship work and key findings.
+**Period:** September 03, 2026 – September 16, 2026  
+**Role:** Data Analyst Intern  
 
-It covers:
+### 📜 Certificate & Verification Status
+* **Verification Documents Included:** Official **Signed Offer Letter** and **Hired Certificate** are uploaded directly in this repository as official proof of tenure.
+* **Completion Certificate Status:** The work was completed on September 16, 2026. Per organization policy, the final completion certificate is under standard administrative processing and will be issued within 15 days. All project work, deliverables, and tenure records are provided below.
 
-- Internship overview
-- Task 1 findings
-- Task 2 – NLP applications
-- Task 3 – Opportunity research
-- Task 4 – Fundraising
-- Supporting evidence
-- Skills developed
-- Overall learning and conclusion
+### 📄 Major Deliverables
+* 📁 `InAmigos_Internship_Report_Shailja_Gupta.pdf` — Detailed final internship report.
+* 📁 `InAmigos_Internship_Presentation_Shailja_Gupta.pdf` — Presentation covering analysis and findings.
+* 📁 `Shailja Gupta signed offer letter .pdf` — Official offer letter.
+* 📁 `Shailja_Gupta_Hired_Certificate.pdf` — Official hiring verification certificate.
 
-📁 **File:** `InAmigos_Internship_Presentation_Shailja_Gupta.pptx`
-
----
-
-### 🏆 3. Internship Certificate
-
-The internship certificate will be added to this repository after completion of the internship.
-
-📁 **File:** `InAmigos_Internship_Certificate_Shailja_Gupta.pdf`
+### 🔍 Key Areas of Work
+* **NGO Data Compilation:** Structured and organized qualitative datasets of Indian NGOs, key initiatives, and operational models.
+* **Natural Language Processing (NLP):** Applied NLP concepts (sentiment analysis, survey coding, social listening, multilingual normalization) to social-impact analytics.
+* **Opportunity & Social Impact Research:** Compiled structured directories of fellowships, volunteer opportunities, and stipends.
+* **Fundraising Awareness:** Executed awareness and support-driven analytics campaigns.
 
 ---
 
-## 🔍 Key Areas of Work
+## 📊 2. Tata iQ – GenAI Powered Data Analytics Job Simulation
 
-### 📊 Data Compilation
-Structured and organized information about Indian NGOs, including their areas of work, headquarters, websites, and key initiatives.
+**Platform:** Forage  
+**Completion Date:** September 20, 2026  
+**Role:** GenAI Data Analyst Trainee  
 
-### 🤖 Natural Language Processing
-Explored how NLP can help NGOs analyze qualitative information through:
+### 📜 Certificate & Deliverables
+* 📁 `Shailja_Gupta_completion_certificate_2025-29.pdf` — Official Completion Certificate issued by Forage / Tata iQ.
+* 📁 `Shailja_Gupta_Internship_Report_2025-29.pdf` — Business and technical report.
+* 📁 `Shailja_Gupta_Internship_PPT_2025-29.pdf` — Final executive presentation.
 
-- Sentiment analysis
-- Automated survey coding
-- Social listening
-- Text normalization
-- Multilingual analysis
-
-### 🔎 Opportunity Research
-Compiled information about volunteering, internship, fellowship, and social-impact opportunities, including eligibility, deadlines, application links, and stipend information.
-
-### 💰 Fundraising Awareness
-Worked on the fundraising component of the internship, including awareness and stationery-support fundraising activities.
+### 🔍 Key Work Completed
+* **Exploratory Data Analysis (EDA):** Assessed financial customer data quality, handled missing values, and analyzed delinquency risk factors.
+* **Predictive Modelling Framework:** Designed a Logistic Regression framework utilizing key financial indicators (Credit Score, Debt-to-Income, Credit Utilization).
+* **AI-Driven Strategy:** Formulated an automated, agentic AI collections workflow with human-in-the-loop oversight and responsible AI principles.
 
 ---
 
-## 🛠️ Skills Developed
+## 🛠️ Skills & Technologies Demonstrated
 
-- Data Collection & Organization
-- Excel / Spreadsheet Handling
-- Research & Information Verification
-- Natural Language Processing Concepts
-- Data Analysis
-- Comparative Analysis
-- Report Writing
-- Presentation Design
-- Professional Documentation
-- Responsible AI & Data Practices
+- **Data Analytics:** Exploratory Data Analysis, Data Cleaning, Spreadsheet Modeling, Predictive Analytics
+- **AI & NLP:** Sentiment Analysis, Survey Coding, Prompting, GenAI Business Integration
+- **Documentation & Reporting:** Technical Writing, Executive Presentations, GitHub Repository Management
 
 ---
 
-## 📈 Learning Outcomes
+## 📂 Repository File Index
 
-This internship helped me understand how data analytics and AI concepts can be applied in the social-impact sector.
-
-Some of my key learnings were:
-
-- Converting unstructured information into organized datasets
-- Understanding practical applications of NLP
-- Conducting structured online research
-- Comparing and analyzing information from different sources
-- Presenting research findings clearly
-- Maintaining evidence-based and responsible reporting practices
-
----
-
-## 📁 Complete Internship Materials
-
-The GitHub repository contains the **final major deliverables**.
-
-Additional supporting material such as task files, spreadsheets, screenshots, and other internship-related documents can be accessed through the Drive folder below.
-
-🔗 **[View Complete Internship Materials on Google Drive](https://github.com/shailja25scs1003004909-creator/2025-2029_Shailja-Gupta_25SCS1003004909_3RD-SEM_2CSE12)**
-
-
+| File Name | Description | Status / Type |
+|---|---|---|
+| `InAmigos_Internship_Report_Shailja_Gupta.pdf` | InAmigos Final Technical Report | Final Deliverable |
+| `InAmigos_Internship_Presentation_Shailja_Gupta.pdf` | InAmigos Project Presentation | Final Deliverable |
+| `Shailja Gupta signed offer letter .pdf` | InAmigos Official Offer Letter | Tenure Verification |
+| `Shailja_Gupta_Hired_Certificate.pdf` | InAmigos Onboarding Certificate | Tenure Verification |
+| `Shailja_Gupta_completion_certificate_2025-29.pdf` | Tata iQ Completion Certificate | Official Certificate |
+| `Shailja_Gupta_Internship_Report_2025-29.pdf` | Tata iQ Simulation Analysis Report | Final Deliverable |
+| `Shailja_Gupta_Internship_PPT_2025-29.pdf` | Tata iQ Executive Presentation | Final Deliverable |
 
 ---
 
 ## 🎯 Conclusion
 
-The InAmigos Foundation AI Data Analytics Internship provided valuable practical exposure to data research, analytics, NLP concepts, social-impact applications, and professional documentation.
-
-This repository serves as a record of my internship work and the skills I developed throughout the experience.
+This repository documents my hands-on application of data analysis, AI models, and real-world business strategy across non-profit and financial sector domains. All deliverables demonstrate comprehensive research, data handling, and execution.
 
 ---
 
@@ -154,9 +101,7 @@ This repository serves as a record of my internship work and the skills I develo
 
 **Shailja Gupta**  
 Roll No. **25SCS1003004909**  
-3rd Semester | 2CSE12  
-Session **2025–29**
+Session **2025–29** | 3rd Semester | 2CSE12  
 
 ---
-
-⭐ *Thank you for visiting my internship repository!*
+⭐ *Thank you for reviewing my internship portfolio!*
